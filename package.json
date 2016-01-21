@@ -1,0 +1,21 @@
+{
+  "name": "img-tools",
+  "version": "0.0.1",
+  "description": "Lee las imagenes de un directorio y optimiza el tamano para una mejor carga en web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "img",
+    "tools"
+  ],
+  "author": "octaviomtc",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "gm": "^1.21.1",
+    "image-size": "^0.4.0",
+    "path": "^0.12.7"
+  }
+}
